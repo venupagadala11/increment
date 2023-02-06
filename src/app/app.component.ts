@@ -14,4 +14,5 @@ export class AppComponent {
 something(event: number){
   this.value = event;
 }
+
 }
