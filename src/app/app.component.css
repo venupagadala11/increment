@@ -1,0 +1,19 @@
+#main-ele{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    WIDTH:90PX;
+    margin-left:495px;
+}
+
+.grn{
+    background-color: green;
+    width:50px;
+}
+.red{
+    background-color: red;
+}
+.blk{
+    background-color: black;
+    color:white;
+}
